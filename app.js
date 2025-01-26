@@ -4,7 +4,7 @@ let btn1 = document.querySelector(".btn1");
  
  
 btn1.addEventListener("click",()=>{
-    coutnter ++;
+     
     if( document.getElementById('input1').value ===''){
                   alert('enter item please');
     }
